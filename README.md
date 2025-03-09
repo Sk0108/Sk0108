@@ -15,11 +15,6 @@ I'm currently a student at SRM University, exploring AI/ML, business analytics, 
 - **Frameworks & Tools:** TensorFlow, Pandas, NumPy, Swing (Java), Eclipse, IntelliJ  
 - **Platforms:** Google Colab, GitHub, ServiceNow  
 
-### 🌱 Current Projects  
-- **🛡️ Urban Safety Network** - AI-powered crime analytics & route optimization  
-- **📊 Crowdsourced Safety Platform** - Real-time crime reports & heatmaps  
- 
-
 ---
 
 ✨ *Let's build something amazing together!* 🚀  
