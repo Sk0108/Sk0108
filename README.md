@@ -84,13 +84,13 @@ samiyah = {
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sk0108&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7f77dd&text_color=9f9bc0&icon_color=d4537e" height="155"/>
+![Samiyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sk0108&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7f77dd&text_color=9f9bc0&icon_color=d4537e)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk0108&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7f77dd&text_color=9f9bc0" height="155"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk0108&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7f77dd&text_color=9f9bc0)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sk0108&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=7f77dd&line=534ab7&point=d4537e" width="100%"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Sk0108&theme=tokyonight&hide_border=true&background=1a1a2e&ring=7f77dd&fire=d4537e&currStreakLabel=9f9bc0&sideLabels=9f9bc0&dates=534ab7)
 
 <br/>
 </div>
