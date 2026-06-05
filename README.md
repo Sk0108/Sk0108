@@ -20,7 +20,7 @@
 
 ---
 
-### About Me
+### 🧠 about me
 
 ```python
 samiyah = {
@@ -33,7 +33,7 @@ samiyah = {
 
 ---
 
-### Featured Projects
+### 🚀 featured projects
 
 <br/>
 
@@ -69,7 +69,7 @@ samiyah = {
 
 ---
 
-### Tech Stack
+### 🛠️ tech stack
 
 <div align="center">
 <br/>
@@ -93,14 +93,14 @@ samiyah = {
 
 ---
 
-### Github Stats
+### 📊 github stats
 
 <div align="center">
 <br/>
 
 <img src="https://img.shields.io/badge/Repos-21-7f77dd?style=for-the-badge&labelColor=1a1a2e" />
 &nbsp;
-<img src="https://img.shields.io/badge/Stars-4-d4537e?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Stars-22-d4537e?style=for-the-badge&labelColor=1a1a2e" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-5dcaa5?style=for-the-badge&labelColor=1a1a2e" />
 
@@ -112,7 +112,7 @@ samiyah = {
 
 ---
 
-### Let's Connect!
+### 🤝 let's connect
 
 <div align="center">
 <br/>
@@ -124,16 +124,6 @@ samiyah = {
 <a href="https://github.com/Sk0108">
   <img src="https://img.shields.io/badge/GitHub-Sk0108-9f9bc0?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
-
-<br/><br/>
-
-> *"I thought AI was boring — believe me, it's not."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7f77dd&height=100&section=footer" width="100%"/>
-
-</div>
 
 <br/><br/>
 
