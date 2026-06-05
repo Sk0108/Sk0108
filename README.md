@@ -20,7 +20,7 @@
 
 ---
 
-### 🧠 about me
+### About Me
 
 ```python
 samiyah = {
@@ -33,7 +33,7 @@ samiyah = {
 
 ---
 
-### 🚀 featured projects
+### Featured Projects
 
 <br/>
 
@@ -69,35 +69,50 @@ samiyah = {
 
 ---
 
-### 🛠️ tech stack
+### Tech Stack
 
 <div align="center">
 <br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,django,aws,mysql,cpp,js,git&theme=dark" />
+
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=7f77dd" />
+<img src="https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=d4537e" />
+<img src="https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=EF9F27" />
+<img src="https://img.shields.io/badge/Scikit--learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=5dcaa5" />
+<img src="https://img.shields.io/badge/Django-1a1a2e?style=for-the-badge&logo=django&logoColor=7f77dd" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=EF9F27" />
+<img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=7f77dd" />
+<img src="https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=d4537e" />
+<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=EF9F27" />
+<img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=d4537e" />
+
 <br/><br/>
 </div>
 
 ---
 
-### 📊 github stats
+### Github Stats
 
 <div align="center">
 <br/>
 
-![Samiyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sk0108&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7f77dd&text_color=9f9bc0&icon_color=d4537e)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sk0108&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=7f77dd&text_color=9f9bc0)
+<img src="https://img.shields.io/badge/Repos-21-7f77dd?style=for-the-badge&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/Stars-4-d4537e?style=for-the-badge&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-5dcaa5?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sk0108&theme=tokyonight&hide_border=true&background=1a1a2e&ring=7f77dd&fire=d4537e&currStreakLabel=9f9bc0&sideLabels=9f9bc0&dates=534ab7)
 
 <br/>
 </div>
 
 ---
 
-### 🤝 let's connect
+### Let's Connect!
 
 <div align="center">
 <br/>
@@ -109,6 +124,16 @@ samiyah = {
 <a href="https://github.com/Sk0108">
   <img src="https://img.shields.io/badge/GitHub-Sk0108-9f9bc0?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
+
+<br/><br/>
+
+> *"I thought AI was boring — believe me, it's not."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7f77dd&height=100&section=footer" width="100%"/>
+
+</div>
 
 <br/><br/>
 
