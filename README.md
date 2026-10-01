@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7f77dd&height=190&section=header&text=Samiyah%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%C2%B7%20Applied%20ML%20%C2%B7%20Data%20%26%20BI%20%7C%20CSE%20(AI%2FML)%20%40%20SRMIST&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7f77dd&height=120&section=header" width="100%" alt=""/>
+
+<h1>Samiyah Khan</h1>
+
+<b>GenAI · Applied ML · Data &amp; BI</b> &nbsp;|&nbsp; CSE (AI/ML) @ SRMIST
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=560&lines=building+RAG+pipelines+and+tool-using+agents.;predicting+earnings+surprises+with+NLP.;turning+raw+data+into+decisions." alt="Typing SVG" />
 
