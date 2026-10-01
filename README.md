@@ -12,27 +12,28 @@
 
 ---
 
-### 🧠 about me
+### About me
 
 Final-year CSE (AI/ML) student at SRMIST who builds things end to end: **LLM agents with tool calling**, **ML models people can actually read**, and **full-stack apps on real SQL data**.
 
-- 📄 Research paper on crime forecasting **accepted for IEEE publication**
-- 🏆 First Prize, IEEE CIS Idea Pitch Challenge (2026) · 🎓 Oracle Certified MySQL 8.0 Developer
-- 💼 Interned at **HCL Technologies** (ServiceNow workflows) and **GEDU Services** (full-stack, 2,000+ users)
+- Research paper on crime forecasting **accepted for IEEE publication**
+- First Prize, IEEE CIS Idea Pitch Challenge (2026)
+- Oracle Certified MySQL 8.0 Developer
+- Interned at **HCL Technologies** (ServiceNow workflows) and **GEDU Services** (full-stack, 2,000+ users)
 
 ---
 
-### 🚀 featured work
+### Featured work
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🤖 **[Jarvis](https://github.com/Sk0108/Jarvis)** | Voice AI agent: "Hey Jarvis" → speech-to-text → LLM → `search_gmail` tool call → spoken answer. Swappable Claude / Gemini / Groq (gpt-oss-120b); read-only Gmail OAuth. | `Python` `Claude` `Gemini` `Groq` `ElevenLabs` `openwakeword` |
-| 📈 **[Earnings Surprise Predictor](https://github.com/Sk0108/earnings-surprise-predictor)** | Predicts EPS beat/miss from fundamentals, momentum and FinBERT sentiment on earnings calls; SHAP explains every prediction. | `XGBoost` `LightGBM` `FinBERT` `SHAP` `Streamlit` |
-| 🗺️ **[Crime Forecasting (IEEE)](https://github.com/Sk0108/AI_Project)** | ARIMA, VAR, Prophet and LSTM benchmarked on NCRB data; LSTM best at R² = 0.89. | `Python` `LSTM` `Prophet` `Pandas` |
+| **[Jarvis](https://github.com/Sk0108/Jarvis)** | Voice AI agent: "Hey Jarvis" → speech-to-text → LLM → `search_gmail` tool call → spoken answer. Swappable Claude / Gemini / Groq (gpt-oss-120b); read-only Gmail OAuth. | `Python` `Claude` `Gemini` `Groq` `ElevenLabs` `openwakeword` |
+| **[Earnings Surprise Predictor](https://github.com/Sk0108/earnings-surprise-predictor)** | Predicts EPS beat/miss from fundamentals, momentum and FinBERT sentiment on earnings calls; SHAP explains every prediction. | `XGBoost` `LightGBM` `FinBERT` `SHAP` `Streamlit` |
+| **[Crime Forecasting (IEEE)](https://github.com/Sk0108/AI_Project)** | ARIMA, VAR, Prophet and LSTM benchmarked on NCRB data; LSTM best at R² = 0.89. | `Python` `LSTM` `Prophet` `Pandas` |
 
 ---
 
-### 🛠️ stack
+### Tech Stack
 
 <div align="center">
 
